@@ -1,2 +1,2 @@
-# gee7
+# gee-demo
 7 days series
